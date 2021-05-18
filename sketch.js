@@ -15,7 +15,7 @@ function setup(){
     hammer = new Hammer(10,100);
     object1 = new Rubber(800,10,50);
     object2 = new stone(500,100,50,50);
-    object3 = new iron(0,100,30,40);
+    object3 = new iron(20,100,30,40);
 }
 
 function draw(){
